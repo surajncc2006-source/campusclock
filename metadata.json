@@ -1,0 +1,7 @@
+{
+  "name": "CampusClock",
+  "description": "Offline attendance manager for Shyam Lal College (DU) with local privacy storage, attendance tracking, and criteria calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
